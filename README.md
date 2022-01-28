@@ -32,7 +32,7 @@
 | 14/lang.ini | Danish                   |
 | 15/lang.ini | Norwegian                |
 | 16/lang.ini | Polish                   |
-| 17/lang.ini | Portuguese (Brazil)      |
+| 17/lang.ini | ✓ Portuguese (Brazil)      |
 | 18/lang.ini | English (United Kingdom) |
 | 19/lang.ini | Turkish                  |
 | 20/lang.ini | Spanish (Latin America)  |
