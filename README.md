@@ -4,10 +4,11 @@
 
 
 **Instructions:** 
-- Download the repo, and edit your langs ini ONLY edit the left side of the = in the INI
+- Download the repo, and edit your lang.ini ONLY edit the left side of the = in the INI
 `i.e STR_NOT_FOUND=TEST TEXT HIT` you will edit ONLY this part `TEST TEXT HIT` **NOT** this part `STR_NOT_FOUND`  
 - After you translate the **WHOLE** INI submit a pull request to this repo
 - Partially translated INIs will be discarded
+- If there is no ✓ by a lnag. it means no one has done it yet
 
 
 
@@ -15,10 +16,10 @@
 |  File   |         Language         |
 |--------:|:-------------------------|
 | 0/lang.ini | Japanese                 |
-| 1/lang.ini | English (United States)  |
+| 1/lang.ini | ✓ English (United States)   |
 | 2/lang.ini | French (France)          |
 | 3/lang.ini | Spanish (Spain)          |
-| 4/lang.ini | German                   |
+| 4/lang.ini | ✓ German                   |
 | 5/lang.ini | Italian                  |
 | 6/lang.ini | Dutch                    |
 | 7/lang.ini | Portuguese (Portugal)    |
@@ -35,7 +36,7 @@
 | 18/lang.ini | English (United Kingdom) |
 | 19/lang.ini | Turkish                  |
 | 20/lang.ini | Spanish (Latin America)  |
-| 21/lang.ini | Arabic                   |
+| 21/lang.ini | ✓ Arabic                   |
 | 22/lang.ini | French (Canada)          |
 | 23/lang.ini | Czech                    |
 | 24/lang.ini | Hungarian                |
