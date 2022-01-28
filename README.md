@@ -15,7 +15,7 @@
 
 |  File   |         Language         |
 |--------:|:-------------------------|
-| 0/lang.ini | Japanese                 |
+| 0/lang.ini | ✓ Japanese                 |
 | 1/lang.ini | ✓ English (United States)   |
 | 2/lang.ini | French (France)          |
 | 3/lang.ini | ✓ Spanish (Spain)          |
