@@ -8,7 +8,7 @@
 `i.e STR_NOT_FOUND=TEST TEXT HIT` you will edit ONLY this part `TEST TEXT HIT` **NOT** this part `STR_NOT_FOUND`  
 - After you translate the **WHOLE** INI submit a pull request to this repo
 - Partially translated INIs will be discarded
-- If there is no ✓ by a lnag. it means no one has done it yet
+- If there is no ✓ by a lang. it means no one has done it yet
 
 
 
