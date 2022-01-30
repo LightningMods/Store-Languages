@@ -38,7 +38,7 @@
 | 20/lang.ini | Spanish (Latin America)  |
 | 21/lang.ini | ✓ Arabic                   |
 | 22/lang.ini | French (Canada)          |
-| 23/lang.ini | Czech                    |
+| 23/lang.ini | ✓ Czech                    |
 | 24/lang.ini | Hungarian                |
 | 25/lang.ini | Greek                    |
 | 26/lang.ini | Romanian                 |
