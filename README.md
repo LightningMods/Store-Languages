@@ -27,7 +27,7 @@
 | 9/lang.ini | Korean                   |
 | 10/lang.ini | Chinese (Traditional)    |
 | 11/lang.ini | Chinese (Simplified)     |
-| 12/lang.ini | Finnish                  |
+| 12/lang.ini | ✓ Finnish                  |
 | 13/lang.ini | Swedish                  |
 | 14/lang.ini | Danish                   |
 | 15/lang.ini | Norwegian                |
