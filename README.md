@@ -19,7 +19,7 @@
 | 1/lang.ini | ✓ English (United States)   |
 | 2/lang.ini | French (France)          |
 | 3/lang.ini | ✓ Spanish (Spain)          |
-| 4/lang.ini | ✓ German                   |
+| 4/lang.ini | German                   |
 | 5/lang.ini | ✓ Italian                  |
 | 6/lang.ini | Dutch                    |
 | 7/lang.ini | Portuguese (Portugal)    |
