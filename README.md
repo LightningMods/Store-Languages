@@ -22,7 +22,7 @@
 | 4/lang.ini | German                   |
 | 5/lang.ini | ✓ Italian                  |
 | 6/lang.ini | Dutch                    |
-| 7/lang.ini | Portuguese (Portugal)    |
+| 7/lang.ini | ✓ Portuguese (Portugal)    |
 | 8/lang.ini | Russian                  |
 | 9/lang.ini | Korean                   |
 | 10/lang.ini | Chinese (Traditional)    |
