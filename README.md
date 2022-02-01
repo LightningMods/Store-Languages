@@ -41,7 +41,7 @@
 | 23/lang.ini | ✓ Czech                    |
 | 24/lang.ini | Hungarian                |
 | 25/lang.ini | Greek                    |
-| 26/lang.ini | Romanian                 |
+| 26/lang.ini | ✓ Romanian                 |
 | 27/lang.ini | Thai                     |
 | 28/lang.ini | Vietnamese               |
 | 29/lang.ini | Indonesian               |
