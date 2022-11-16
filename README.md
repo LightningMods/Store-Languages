@@ -34,7 +34,7 @@
 | 16/lang.ini | Polish                   |
 | 17/lang.ini | ✓ Portuguese (Brazil)      |
 | 18/lang.ini | English (United Kingdom) |
-| 19/lang.ini | Turkish                  |
+| 19/lang.ini | ✓ Turkish                  |
 | 20/lang.ini | Spanish (Latin America)  |
 | 21/lang.ini | ✓ Arabic                   |
 | 22/lang.ini | French (Canada)          |
